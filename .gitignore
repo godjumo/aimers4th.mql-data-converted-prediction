@@ -265,5 +265,6 @@ $RECYCLE.BIN/
 # Data, Data Folder
 *.csv
 .data/
+.crowling_data/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,python,jupyternotebooks,visualstudiocode
